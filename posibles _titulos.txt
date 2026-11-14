@@ -1,0 +1,5 @@
+#Listar posibles nombres para el titulo de la interfaz del proyecto
+
+portada = losconejitos
+pestaña = dinosaurio
+equipo = los indestructibles
