@@ -56,7 +56,7 @@ FUENTE_BOTON = (
 # CONFIG INPUTS
 # ==========================
 
-ANCHO_INPUT = 30
+ANCHO_INPUT = 50
 
 # ==========================
 # HOVER BOTONES
