@@ -19,7 +19,7 @@ COLOR_BOTON_HOVER = "#16a34a"
 # ==========================
 
 FUENTE_TITULO = (
-    "Arial",
+    "Calibri",
     22,
     "bold"
 )
