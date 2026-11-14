@@ -56,7 +56,11 @@ FUENTE_BOTON = (
 # CONFIG INPUTS
 # ==========================
 
+<<<<<<< HEAD
 ANCHO_INPUT = 50
+=======
+ANCHO_INPUT = 40
+>>>>>>> origin/task3
 
 # ==========================
 # HOVER BOTONES
